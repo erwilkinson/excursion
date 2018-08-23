@@ -2,40 +2,37 @@ body {
   background-color: black;
   text-align: center;
   color: white;
-  font-family: Verdana, sans-serif;
+  font-family: "Verdana", sans-serif;
 }
 
 h1 {
-  font-family: Verdana, sans-serif;
   font-weight: normal;
   font-size: 50px;
   color: white;
 }
 
-.cta {
-  font-family: Verdana, sans-serif;
-  font-size: 16px;
+h2 {
+  font-size: 42px;
 }
 
-a {
-  color: Aquamarine;
+.cta {
+  font-size: 16px;
+    color: Aquamarine;
 }
+
 
 .info {
-  font-family: Verdana, sans-serif;
   font-weight: 300;
   font-size: 42px;
   color: white;
 }
 
 .subtitle {
-  font-family: Verdana, sans-serif;
   font-size: 21px;
   color: gray;
 }
 
 .footer {
-  font-family: Verdana, sans-serif;
   text-align: right;
   color: gray;
 }
